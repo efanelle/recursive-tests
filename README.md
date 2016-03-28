@@ -1,2 +1,1 @@
-# blue-tiger
-# recursive-tests
+Stub
